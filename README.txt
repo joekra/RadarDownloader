@@ -1,0 +1,1 @@
+After Extracting the files, move the image file to "C:\Users\offic\", then you should be able to move the application file wherever you want. If you want to have it pinned to your taskbar, drag the shortcut to your taskbar.
